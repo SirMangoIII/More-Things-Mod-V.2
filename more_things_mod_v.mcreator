@@ -1,0 +1,44 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "A",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.a.title": "A",
+      "advancements.a.descr": "a"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_things_mod_v",
+    "modName": "More Things Mod V.2",
+    "version": "1.0.0",
+    "author": "terry, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.morethingsmodv",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}
